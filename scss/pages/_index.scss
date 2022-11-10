@@ -1,0 +1,20 @@
+/*---main---*/
+.main__h2 {
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gold;
+    color: rgb(33, 81, 214);
+  }
+
+  .main__plantel {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+  }
+  
+  .main__ct {
+    width: 300;
+    height: 350px;
+  }
